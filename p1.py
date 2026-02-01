@@ -1,1 +1,1 @@
-print("omegacore INSERT")
+print("omegacore UPDATE")
