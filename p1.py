@@ -1,1 +1,0 @@
-print("omegacore FIX2")
